@@ -83,6 +83,7 @@ A curated list of open-source libraries, datasets, learning tools, etymology res
 
 | Resource | Description | Access | License / Terms |
 |---|---|---:|---|
+| [KanjiWidget](https://github.com/platwa/KanjiWidget) | Offline Windows desktop widget for background kanji exposure, furigana examples, FSRS reviews, and Anki `.apkg` import. | Free | Apache-2.0 |
 | [KanjiDraw.com](https://kanjidraw.com/) | Browser-based kanji drawing and puzzle site for practicing strokes, readings, kana, and kanji levels. | Free to access | License not specified |
 | [obfusk/kanjidraw](https://github.com/obfusk/kanjidraw) | Python library and GUI for handwritten kanji recognition using stroke data derived from KanjiVG. | Free | AGPL-3.0 code; stroke database based on KanjiVG CC BY-SA data |
 | [TraceKanji](https://github.com/sicfran774/TraceKanji) | Kanji study tool with handwriting recognition, SRS-style custom decks, KanjiVG strokes, and KanjiAPI data. | Free | GPL-3.0 |
