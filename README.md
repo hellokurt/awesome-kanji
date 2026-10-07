@@ -102,6 +102,7 @@ A curated list of open-source libraries, datasets, learning tools, etymology res
 | [Fun With Kanji](https://f-droid.org/packages/krillefear.funwithkanji/) | Open-source Android app for studying radicals and the Joyo kanji with dictionary/search features. | Free | MPL-2.0 |
 | [DaKanji](https://github.com/CaptainDario/DaKanji) | Japanese study app with offline dictionary, drawing recognition, furigana, and kanji-related features. | Free | License not clearly surfaced; verify repository |
 | [KanaDojo](https://github.com/lingdojo/kana-dojo) | Web-based open-source platform for hiragana, katakana, kanji, vocabulary, and grammar practice. | Free | License not clearly surfaced; verify repository |
+| [Rolko](https://www.rolko.xyz/japanese-vocabulary-tracker) | Desktop Chrome lookup for Japanese webpage words containing kanji, with AI-assisted explanations and saved-word review in a web app. | Freemium (free lookup; paid new-word saving) | Proprietary |
 
 ---
 
